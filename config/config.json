@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x58418e889e59cDe288160e70458487F72f6878d0",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x58418e889e59cde288160e70458487f72f6878d0",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Ether",
+    "ID": 4
+  },
+  "NFT_NAME": "Nebula Birds",
+  "SYMBOL": "Birds",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
